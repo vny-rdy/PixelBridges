@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-diagonal-split {
+  background: linear-gradient(8deg, white 38.3%, rgb(250 204 21) 0%);
+}
+.bg-diagonal {
+  background: linear-gradient(5deg, white 58.3%, rgb(250 204 21) 0%);
+}
+.bg-antiDiagonal{
+  background: linear-gradient(-5deg,rgb(250 204 21) 38.3%,white 38.3%);
+}

@@ -1,0 +1,9 @@
+:hover.arrows{
+    filter: drop-shadow(1px 1px 30px black);
+}
+:hover.discover1{
+    filter: drop-shadow(1px 1px 30px purple);
+}
+:hover.discover2{
+    filter: drop-shadow(1px 1px 30px green);
+}

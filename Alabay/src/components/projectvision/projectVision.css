@@ -1,0 +1,14 @@
+.slick-slide {
+    width: 291px !important; /* Set the desired width */
+    margin: 0px 5px;
+  }
+  :hover.arow{
+    filter: drop-shadow(1px 1px 20px rgb(245, 231, 27));
+    transition: ease-in-out;
+    transition: all;
+    
+
+  }
+.image{
+    filter: drop-shadow(1px 1px 10px rgb(57, 57, 55));
+  }
